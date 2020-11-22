@@ -1,0 +1,33 @@
+{
+  "name": "eslint-config-typesafeconfig",
+  "version": "0.1.0",
+  "description": "ESLint base configuration (eslintrc) to extend from with emphasis on type safety.",
+  "main": ".eslintrc.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shian15810/eslint-config-typesafeconfig.git"
+  },
+  "keywords": [
+    "type",
+    "safe",
+    "config",
+    "typescript",
+    "base",
+    "configuration",
+    "tsconfig",
+    "extends",
+    "typesafeconfig",
+    "eslint",
+    "eslintrc",
+    "eslintconfig"
+  ],
+  "author": "Chuah Chee Shian <shian15810@gmail.com> (https://github.com/shian15810)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shian15810/eslint-config-typesafeconfig/issues"
+  },
+  "homepage": "https://github.com/shian15810/eslint-config-typesafeconfig#readme"
+}
